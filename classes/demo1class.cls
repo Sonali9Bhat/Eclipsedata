@@ -14,8 +14,7 @@ public with sharing class demo1class {
     //kkjskf
     //making changes in branch B2
     //fkjfkjk
-<<<<<<< HEAD
-=======
     //master
->>>>>>> 75df598701a196e68f0202f5bb66ac24246e620b
+    //branch B1
+    //masterrrr
 }
